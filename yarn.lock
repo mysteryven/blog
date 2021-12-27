@@ -4144,6 +4144,11 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
+pnpm@^6.24.3:
+  version "6.24.3"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-6.24.3.tgz#7165c1961cb5a0ee637e0155cfa398306401938b"
+  integrity sha512-FctPe51AlYa+nnlcnMbrxcsqXeIGhGQ0i35VrHk8+NR9PAfKTghoUqLRvIbRT/WDHx0uJnMrh1aKuVyrp+kqUQ==
+
 postcss-js@^3.0.3:
   version "3.0.3"
   resolved "https://registry.npm.taobao.org/postcss-js/download/postcss-js-3.0.3.tgz#2f0bd370a2e8599d45439f6970403b5873abda33"

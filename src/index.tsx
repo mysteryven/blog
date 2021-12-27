@@ -1,6 +1,7 @@
 import { StrictMode } from 'react'
 import { render } from 'react-dom'
 import 'tailwindcss/tailwind.css'
+import './call/index'
 
 render(
   <StrictMode>
