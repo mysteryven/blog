@@ -8,3 +8,4 @@
 ## 文章
 
 1. [手写 promise 教程](https://github.com/mysteryven/juejin-codebase/issues/1)
+2. [手写 redux](https://github.com/mysteryven/blog/issues/2)
