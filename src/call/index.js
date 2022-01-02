@@ -34,9 +34,9 @@ const foo = {
 }
 
 function bar(name, age) {
-  console.log(this.value);
-  console.log(name);
-  console.log(age);
+  // console.log(this.value);
+  // console.log(name);
+  // console.log(age);
 }
 
 bar.myCall(foo, 'hi');
