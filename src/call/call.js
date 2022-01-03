@@ -34,10 +34,10 @@ const foo = {
 }
 
 function bar(name, age) {
-  // console.log(this.value);
-  // console.log(name);
+  console.log(this.value);
+  console.log(name);
   // console.log(age);
 }
 
-bar.myCall(foo, 'hi');
+console.log(bar.myCall(foo, 'hi'));
 bar.myApply(foo, ['hi', 12]);

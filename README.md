@@ -5,6 +5,7 @@
 2. [手写 redux](./src/redux)
 3. [手写 call、apply](./src/call)
 4. [手写 Symbol](./src/symbol)
+5. [手写 New](./src/new.ts)
 
 ## 文章
 

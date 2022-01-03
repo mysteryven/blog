@@ -68,3 +68,12 @@ Object.defineProperties(MySymbol, {
 })
 
 export default MySymbol;
+
+
+const symbol1 = MySymbol('1');
+const symbol2 = MySymbol('1');
+console.log(symbol1.toString());
+console.log(symbol2.toString());
+
+const symbol3 = MySymbol.for('1')
+console.log(MySymbol.keyFor(symbol3))
