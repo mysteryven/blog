@@ -14,7 +14,7 @@ describe('MyPromise', () => {
 
         // 0. 不传，返回 undefined
         const p0 = EmptyPromise.then((res) => {
-            console.log(res);
+            // console.log(res);
         });
         jest.runOnlyPendingTimers();
         p0.then(res => {
