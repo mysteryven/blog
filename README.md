@@ -3,9 +3,10 @@
 ## 代码
 1. [手写 promise](./src/promise)
 2. [手写 redux](./src/redux)
-3. [手写 call、apply](./src/call)
-4. [手写 Symbol](./src/symbol)
+3. [手写 call、apply](./src/call/call.js)
+4. [手写 Symbol](./src/symbol/symbol.ts)
 5. [手写 New](./src/new.ts)
+6. [手写 bind](./src/bind/bind.js)
 
 ## 文章
 
