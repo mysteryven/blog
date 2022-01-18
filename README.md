@@ -13,3 +13,7 @@
 
 1. [手写 promise 教程](https://github.com/mysteryven/juejin-codebase/issues/1)
 2. [手写 redux](https://github.com/mysteryven/blog/issues/2)
+
+## 算法题
+
+- [three sum](https://leetcode-cn.com/problems/1fGaJU/) [题解](./src/剑指offer/threeSum)
