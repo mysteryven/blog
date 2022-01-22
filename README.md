@@ -15,5 +15,9 @@
 2. [手写 redux](https://github.com/mysteryven/blog/issues/2)
 
 ## 算法题
-
-- [three sum](https://leetcode-cn.com/problems/1fGaJU/) [题解](./src/剑指offer/threeSum)
+| 题目 | 解答 |
+| --- | ---- |
+| [001. 整数除法](https://leetcode-cn.com/problems/xoh6Oh/) | [题解](src/剑指offer/divide) |  
+| [002. 二进制加法](https://leetcode-cn.com/problems/JFETK5/) | [题解](src/剑指offer/addBinary) 
+| [003. 前 n 个数字二进制中 1 的个数](https://leetcode-cn.com/problems/w3tCBm/) | [题解](src/剑指offer/countBits) |
+| [three sum](https://leetcode-cn.com/problems/1fGaJU/) | [题解](./src/剑指offer/threeSum) |
