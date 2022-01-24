@@ -23,3 +23,7 @@
 | [004. 只出现一次的数字 ](https://leetcode-cn.com/problems/WGki4K/) | [题解](./src/剑指offer/singleNUmber) |
 | [005. 单词长度的最大乘积](https://leetcode-cn.com/problems/aseY1I/) | [题解](./src/剑指offer/maxProduct) |
 | [006.  排序数组中两个数字之和](https://leetcode-cn.com/problems/kLl5u1/) | [题解](./src/剑指offer/twoSum) |
+| [007. 数组中和为 0 的三个数](https://leetcode-cn.com/problems/1fGaJU/) | [题解](./src/剑指offer/threeSum) |
+| [008. 和大于等于 target 的最短子数组](https://leetcode-cn.com/problems/ZVAVXX/) | [题解](./src/剑指offer/minSubArrayLen) |
+| [009. 乘积小于 K 的子数组](https://leetcode-cn.com/problems/ZVAVXX/) | [题解](./src/剑指offer/numSubarrayProductLessThanK) |
+
