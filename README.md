@@ -26,4 +26,5 @@
 | [007. 数组中和为 0 的三个数](https://leetcode-cn.com/problems/1fGaJU/) | [题解](./src/剑指offer/threeSum) |
 | [008. 和大于等于 target 的最短子数组](https://leetcode-cn.com/problems/ZVAVXX/) | [题解](./src/剑指offer/minSubArrayLen) |
 | [009. 乘积小于 K 的子数组](https://leetcode-cn.com/problems/ZVAVXX/) | [题解](./src/剑指offer/numSubarrayProductLessThanK) |
+| [010. 和为 k 的子数组](https://leetcode-cn.com/problems/QTMn0o/) | - |
 
