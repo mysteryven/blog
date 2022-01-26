@@ -1,26 +1,13 @@
-// nums = [1,1,1], k = 2
-function subarraySum(nums: number[], k: number): number {
+export default function subarraySum(nums: number[], k: number): number {
     let sum = 0;
-    let val = 0;
-    let left = 0;
+    let count = 0;
+    let map = new Map<number, number>([[0, 1]]);
 
-    for (let right = 0; right < nums.length; right++) {
-        val += nums[right];
-
-        if (val === k) {
-            sum++;
-        }
-
-        while (left < right && sum > k) {
-            left++;
-            val -= nums[left-1];
-        }
-
-        if (val === k) {
-            sum++;
-        }
+    for (let num of nums) {
+        sum += num;
+        count += (map.get(sum - k) || 0)
+        map.set(sum, (map.get(sum) || 0) + 1);
     }
 
-
-    return sum;
+    return count;
 };
