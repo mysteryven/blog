@@ -30,3 +30,5 @@
 | [011.  0 和 1 个数相同的子数组](https://leetcode-cn.com/problems/A1NYOS/) | [题解](./src/剑指offer/findMaxLength/) |
 | [012. 左右两边子数组的和相等](https://leetcode-cn.com/problems/tvdfij/) | [题解](./src/剑指offer/pivotIndex/) |
 | [013. 二维子矩阵的和](https://leetcode-cn.com/problems/O4NDxx/) | [题解](./src/剑指offer/NumMatrix/) |
+| [014. 字符串中的变位词](https://leetcode-cn.com/problems/MPnaiL/) | [题解](./src/剑指offer/checkInClusion/) |
+| [014. 符串中的所有变位词](https://leetcode-cn.com/problems/VabMRr/) | [题解](./src/剑指offer/findAnagrams/) |
