@@ -1,25 +1,25 @@
 export default function lengthOfLongestSubstring(s: string): number {
-  let count = new Set();
+  if (s.length === 0) {
+    return 0;
+  }
   let i = 0;
   let j = 0;
   let longest = 1;
+  let lastIndex: Record<string, number | undefined> = {};
 
   for (; i < s.length; i++) {
-    if (count.has(s[i])) {
-      // pwwkew
-      while (j < i) {
-        if (s[j] === s[i]) {
-          j++;
-          break;
-        } else {
-          count.delete(s[++j]);
-        }
-      }
-      console.log(longest, i, j);
-      longest = Math.max(longest, i - j + 1);
+    if (lastIndex[s[i]] === undefined) {
+      lastIndex[s[i]] = i;
     } else {
-      count.add(s[i]);
+      let endJ = lastIndex[s[i]] as number;
+      lastIndex[s[i]] = i;
+      while (j < endJ) {
+        lastIndex[s[j++]] = undefined;
+      }
+      j = Math.min(i, endJ + 1);
     }
+
+    longest = Math.max(longest, i - j + 1);
   }
 
   return longest;

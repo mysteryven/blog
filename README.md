@@ -32,3 +32,4 @@
 | [013. 二维子矩阵的和](https://leetcode-cn.com/problems/O4NDxx/) | [题解](./src/剑指offer/NumMatrix/) |
 | [014. 字符串中的变位词](https://leetcode-cn.com/problems/MPnaiL/) | [题解](./src/剑指offer/checkInClusion/) |
 | [015. 符串中的所有变位词](https://leetcode-cn.com/problems/VabMRr/) | [题解](./src/剑指offer/findAnagrams/) |
+| [016. 不含重复字符的最长子字符串](https://leetcode-cn.com/problems/wtcaE1/) | [题解](./src/剑指offer/lengthOfLongestSubstring/) |
