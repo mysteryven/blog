@@ -35,3 +35,5 @@
 | [016. 不含重复字符的最长子字符串](https://leetcode-cn.com/problems/wtcaE1/) | [题解](./src/剑指offer/lengthOfLongestSubstring/) |
 | [017. 含有所有字符的最短字符串](https://leetcode-cn.com/problems/M1oyTv/) | [题解](./src/剑指offer/minWindow/) |
 | [018. 有效的回文](https://leetcode-cn.com/problems/XltzEq/) | [题解](./src/剑指offer/isPalindrome/) |
+| [019. 最多删除一个字符得到回文](https://leetcode-cn.com/problems/RQku0D/) | [题解](./src/剑指offer/validPalindrome/) |
+| [020. 回文子字符串的个数](https://leetcode-cn.com/problems/a7VOhD/) | [题解](./src/剑指offer/countSubstrings/) |
