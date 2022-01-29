@@ -1,4 +1,4 @@
-import MyPromise from "promise"
+import MyPromise from "./promise"
 
 describe('MyPromise', () => {
     afterEach(() => {
