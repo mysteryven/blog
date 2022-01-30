@@ -39,3 +39,4 @@
 | [020. 回文子字符串的个数](https://leetcode-cn.com/problems/a7VOhD/) | [题解](./src/剑指offer/countSubstrings/) |
 | [021. 删除链表的倒数第 n 个结点](https://leetcode-cn.com/problems/SLwz0R/) | [题解](./src/剑指offer/removeNthFromEnd/) |
 | [022. 链表中环的入口节点](https://leetcode-cn.com/problems/c32eOV/) | [题解](./src/剑指offer/detectCycle/) |
+| [023. 两个链表的第一个重合节点](https://leetcode-cn.com/problems/3u1WK4/) | [题解](./src/剑指offer/getIntersectionNode/) |
