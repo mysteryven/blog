@@ -42,4 +42,5 @@
 | [023. 两个链表的第一个重合节点](https://leetcode-cn.com/problems/3u1WK4/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/getIntersectionNode/) |
 | [ 024. 反转链表](https://leetcode-cn.com/problems/UHnkqh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/reverseList/) |
 | [ 025. 链表中的两数相加](https://leetcode-cn.com/problems/lMSNwu/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/addTwoNumbers/) |
+| [026. 重排链表](https://leetcode-cn.com/problems/LGjMqU/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/reorderList/) |
 
