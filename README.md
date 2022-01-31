@@ -41,4 +41,5 @@
 | [022. 链表中环的入口节点](https://leetcode-cn.com/problems/c32eOV/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/detectCycle/) |
 | [023. 两个链表的第一个重合节点](https://leetcode-cn.com/problems/3u1WK4/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/getIntersectionNode/) |
 | [ 024. 反转链表](https://leetcode-cn.com/problems/UHnkqh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/reverseList/) |
+| [ 025. 链表中的两数相加](https://leetcode-cn.com/problems/lMSNwu/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/addTwoNumbers/) |
 

@@ -14,7 +14,7 @@ function reverseListR(head: ListNode | null): ListNode | null {
 }
 
 // 非递归版
-function reverseList(head: ListNode | null): ListNode | null {
+export function reverseList(head: ListNode | null): ListNode | null {
     if (head === null) {
         return null;
     }
