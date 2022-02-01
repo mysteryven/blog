@@ -43,5 +43,7 @@
 | [ 024. 反转链表](https://leetcode-cn.com/problems/UHnkqh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/reverseList/) |
 | [ 025. 链表中的两数相加](https://leetcode-cn.com/problems/lMSNwu/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/addTwoNumbers/) |
 | [026. 重排链表](https://leetcode-cn.com/problems/LGjMqU/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/reorderList/) |
-| [027. 回文链表](https://leetcode-cn.com/problems/aMhZSa/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/reorderList/) |
+| [027. 回文链表](https://leetcode-cn.com/problems/aMhZSa/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/isPalindrome-27/) |
+| [028. 展平多级双向链表](https://leetcode-cn.com/problems/Qv1Da2/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/flatten/) |
+| [029. 排序的循环链表](https://leetcode-cn.com/problems/4ueAj6/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/insert/) |
 
