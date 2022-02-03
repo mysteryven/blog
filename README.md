@@ -47,4 +47,5 @@
 | [028. 展平多级双向链表](https://leetcode-cn.com/problems/Qv1Da2/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/flatten/) |
 | [029. 排序的循环链表](https://leetcode-cn.com/problems/4ueAj6/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/insert/) |
 | [030. 插入、删除和随机访问都是 O(1) 的容器](https://leetcode-cn.com/problems/FortPu/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/RandomizedSet/) |
+| [031. 最近最少使用缓存](https://leetcode-cn.com/problems/OrIXps/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/LRUCache/) |
 
