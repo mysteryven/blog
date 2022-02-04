@@ -48,4 +48,5 @@
 | [029. 排序的循环链表](https://leetcode-cn.com/problems/4ueAj6/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/insert/) |
 | [030. 插入、删除和随机访问都是 O(1) 的容器](https://leetcode-cn.com/problems/FortPu/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/RandomizedSet/) |
 | [031. 最近最少使用缓存](https://leetcode-cn.com/problems/OrIXps/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/LRUCache/) |
+| [032. 有效的变位词](https://leetcode-cn.com/problems/dKk3P7/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/isAnagram/) |
 
