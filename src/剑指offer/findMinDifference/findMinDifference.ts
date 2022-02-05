@@ -1,13 +1,13 @@
 function findMinDifference(timePoints: string[]): number {
-    const A_DAY_MINUS = 1440;
+    const A_DAY_MINUTES = 1440;
     let minTime = 1440;
     let maxTime = -1;
 
-    if (timePoints.length > A_DAY_MINUS) {
+    if (timePoints.length > A_DAY_MINUTES) {
         return 0;
     }
 
-    const arr = new Array(A_DAY_MINUS).fill(false);
+    const arr = new Array(A_DAY_MINUTES).fill(false);
 
     for (let i = 0; i < timePoints.length; i++) {
         const index = convertToMinus(timePoints[i]);
@@ -23,7 +23,7 @@ function findMinDifference(timePoints: string[]): number {
     let minInterval = 1440;
     let lastTimeFlag = -1;
 
-    for (let i = 0; i < A_DAY_MINUS; i++) {
+    for (let i = 0; i < A_DAY_MINUTES; i++) {
         if (arr[i]) {
             if (lastTimeFlag !== -1) {
                 minInterval = Math.min(minInterval, i - lastTimeFlag);
@@ -32,7 +32,7 @@ function findMinDifference(timePoints: string[]): number {
         }
     }
 
-    return Math.min(minInterval, minTime + A_DAY_MINUS - maxTime)
+    return Math.min(minInterval, minTime + A_DAY_MINUTES - maxTime)
 };
 
 function convertToMinus(time: string) {
