@@ -53,6 +53,7 @@
 | [034. 外星语言是否排序](https://leetcode-cn.com/problems/lwyVBB/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/isAlienSorted/) |
 | [035. 最小时间差](https://leetcode-cn.com/problems/569nqc/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findMinDifference/) |
 | [036. 后缀表达式](https://leetcode-cn.com/problems/8Zf90G/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/evalRPN/) |
+| [037. 小行星碰撞](https://leetcode-cn.com/problems/XagZNi/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/asteroidCollision/) |
 
 
 
