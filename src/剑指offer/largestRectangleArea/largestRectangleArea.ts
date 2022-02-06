@@ -1,4 +1,4 @@
-function largestRectangleArea(heights: number[]): number {
+export default function largestRectangleArea(heights: number[]): number {
     const stack: number[] = [-1];
     let maxArea = 0;
 
