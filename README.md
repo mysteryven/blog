@@ -55,6 +55,7 @@
 | [036. 后缀表达式](https://leetcode-cn.com/problems/8Zf90G/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/evalRPN/) |
 | [037. 小行星碰撞](https://leetcode-cn.com/problems/XagZNi/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/asteroidCollision/) |
 | [038. 每日温度](https://leetcode-cn.com/problems/iIQa4I/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/dailyTemperatures/) |
+| [039. 直方图最大矩形面积](https://leetcode-cn.com/problems/0ynMMM/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/largestRectangleArea/) |
 
 
 
