@@ -58,6 +58,7 @@
 | [039. 直方图最大矩形面积](https://leetcode-cn.com/problems/0ynMMM/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/largestRectangleArea/) |
 | [040. 矩阵中最大的矩形](https://leetcode-cn.com/problems/PLYXKQ/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/maximalRectangle/) |
 | [041. 滑动窗口的平均值](https://leetcode-cn.com/problems/qIsx9U/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MovingAverage/) |
+| [042. 最近请求次数](https://leetcode-cn.com/problems/H8086Q/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MovingAverage/) |
 
 
 
