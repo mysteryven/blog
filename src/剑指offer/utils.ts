@@ -24,10 +24,21 @@ export class Node {
     toString() {
         let s = [];
         let node: Node | null = this;
-        while(node !== null) {
-           s.push(node.val);
-           node = node.next;
+        while (node !== null) {
+            s.push(node.val);
+            node = node.next;
         }
         console.log(s.join('->'))
+    }
+}
+
+export class TreeNode {
+    val: number
+    left: TreeNode | null
+    right: TreeNode | null
+    constructor(val?: number, left?: TreeNode | null, right?: TreeNode | null) {
+        this.val = (val === undefined ? 0 : val)
+        this.left = (left === undefined ? null : left)
+        this.right = (right === undefined ? null : right)
     }
 }
