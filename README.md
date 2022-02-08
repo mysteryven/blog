@@ -62,7 +62,7 @@
 | [043. 往完全二叉树添加节点](https://leetcode-cn.com/problems/NaqhDT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/CBTInserter/) |
 | [044. 二叉树每层的最大值](https://leetcode-cn.com/problems/hPov7L/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/largestValues/) |
 | [045. 二叉树最底层最左边的值](https://leetcode-cn.com/problems/LwUNpT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findBottomLeftValue/) |
-| [46. 二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/rightSideView/) |
+| [046. 二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/rightSideView/) |
 
 
 
