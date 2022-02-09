@@ -62,8 +62,10 @@
 | [043. 往完全二叉树添加节点](https://leetcode-cn.com/problems/NaqhDT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/CBTInserter/) |
 | [044. 二叉树每层的最大值](https://leetcode-cn.com/problems/hPov7L/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/largestValues/) |
 | [045. 二叉树最底层最左边的值](https://leetcode-cn.com/problems/LwUNpT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findBottomLeftValue/) |
-| [46. 二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/rightSideView/) |
-| [047. 二叉树剪枝](https://leetcode-cn.com/problems/pOCWxh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pruneTree/) |
+| [46. 二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/rightSideView.ts) |
+| [047. 二叉树剪枝](https://leetcode-cn.com/problems/pOCWxh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pruneTree.ts/) |
+| [048. 序列化与反序列化二叉树](https://leetcode-cn.com/problems/h54YBf/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/serializeAndDeserialize.ts/) |
+| [049. 从根节点到叶节点的路径数字之和](https://leetcode-cn.com/problems/3Etpl5/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/sumNumbers.ts/) |
 
 
 
