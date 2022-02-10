@@ -66,6 +66,8 @@
 | [047. 二叉树剪枝](https://leetcode-cn.com/problems/pOCWxh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pruneTree.ts/) |
 | [048. 序列化与反序列化二叉树](https://leetcode-cn.com/problems/h54YBf/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/serializeAndDeserialize.ts/) |
 | [049. 从根节点到叶节点的路径数字之和](https://leetcode-cn.com/problems/3Etpl5/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/sumNumbers.ts/) |
+| [050. 向下的路径节点之和](https://leetcode-cn.com/problems/6eUYwP/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pathSum.ts/) |
+| [051. 节点之和最大的路径](https://leetcode-cn.com/problems/jC7MId/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/maxPathSum.ts/) |
 
 
 
