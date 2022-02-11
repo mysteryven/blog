@@ -1,11 +1,11 @@
 import { TreeNode } from "./utils";
 
 interface Command {
-  str: "print" | "go";
+  str: "sum" | "go";
   node: TreeNode;
 }
 
-function createCommand(str: "print" | "go", node: TreeNode) {
+function createCommand(str: "sum" | "go", node: TreeNode) {
   return {
     str,
     node,
@@ -22,7 +22,7 @@ function increasingBST(root: TreeNode | null): TreeNode | null {
   while (stack.length > 0) {
     const item = stack.pop() as Command;
 
-    if (item.str === "print") {
+    if (item.str === "sum") {
       cur = item.node;
       prev.right = cur;
       cur.left = null;
@@ -31,7 +31,7 @@ function increasingBST(root: TreeNode | null): TreeNode | null {
       if (item.node.right) {
         stack.push(createCommand("go", item.node.right));
       }
-      stack.push(createCommand("print", item.node));
+      stack.push(createCommand("sum", item.node));
       if (item.node.left) {
         stack.push(createCommand("go", item.node.left));
       }

@@ -69,6 +69,9 @@
 | [050. 向下的路径节点之和](https://leetcode-cn.com/problems/6eUYwP/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pathSum.ts/) |
 | [051. 节点之和最大的路径](https://leetcode-cn.com/problems/jC7MId/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/maxPathSum.ts/) |
 | [052. 展平二叉搜索树](https://leetcode-cn.com/problems/NYBBNL/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/increasingBST.ts/) |
+| [053. 二叉搜索树中的中序后继](https://leetcode-cn.com/problems/NYBBNL/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/increasingBST.ts/) |
+| [054. 所有大于等于节点的值之和](https://leetcode-cn.com/problems/w6cpku/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/convertBST.ts/) |
+| [055. 二叉搜索树迭代器](https://leetcode-cn.com/problems/kTOapQ/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/BSTIterator.ts/) |
 
 
 
