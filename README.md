@@ -68,6 +68,7 @@
 | [049. 从根节点到叶节点的路径数字之和](https://leetcode-cn.com/problems/3Etpl5/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/sumNumbers.ts/) |
 | [050. 向下的路径节点之和](https://leetcode-cn.com/problems/6eUYwP/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pathSum.ts/) |
 | [051. 节点之和最大的路径](https://leetcode-cn.com/problems/jC7MId/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/maxPathSum.ts/) |
+| [052. 展平二叉搜索树](https://leetcode-cn.com/problems/NYBBNL/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/increasingBST.ts/) |
 
 
 
