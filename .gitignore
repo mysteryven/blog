@@ -38,3 +38,4 @@ yarn-error.log*
 
 /.idea
 Project_default.xml
+/node_modules

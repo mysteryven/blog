@@ -62,7 +62,19 @@
 | [043. 往完全二叉树添加节点](https://leetcode-cn.com/problems/NaqhDT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/CBTInserter/) |
 | [044. 二叉树每层的最大值](https://leetcode-cn.com/problems/hPov7L/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/largestValues/) |
 | [045. 二叉树最底层最左边的值](https://leetcode-cn.com/problems/LwUNpT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findBottomLeftValue/) |
-| [046. 二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/rightSideView/) |
+| [46. 二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/rightSideView.ts) |
+| [047. 二叉树剪枝](https://leetcode-cn.com/problems/pOCWxh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pruneTree.ts/) |
+| [048. 序列化与反序列化二叉树](https://leetcode-cn.com/problems/h54YBf/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/serializeAndDeserialize.ts/) |
+| [049. 从根节点到叶节点的路径数字之和](https://leetcode-cn.com/problems/3Etpl5/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/sumNumbers.ts/) |
+| [050. 向下的路径节点之和](https://leetcode-cn.com/problems/6eUYwP/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pathSum.ts/) |
+| [051. 节点之和最大的路径](https://leetcode-cn.com/problems/jC7MId/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/maxPathSum.ts/) |
+| [052. 展平二叉搜索树](https://leetcode-cn.com/problems/NYBBNL/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/increasingBST.ts/) |
+| [053. 二叉搜索树中的中序后继](https://leetcode-cn.com/problems/NYBBNL/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/increasingBST.ts/) |
+| [054. 所有大于等于节点的值之和](https://leetcode-cn.com/problems/w6cpku/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/convertBST.ts/) |
+| [055. 二叉搜索树迭代器](https://leetcode-cn.com/problems/kTOapQ/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/BSTIterator.ts/) |
+| [056. 二叉搜索树中两个节点之和](https://leetcode-cn.com/problems/opLdQZ/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findTarget.ts/) |
+| [057. 值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/containsNearByAlmostDuplicate.ts/) |
+| [058.  日程表](https://leetcode-cn.com/problems/fi9suh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MyCalendar.ts/) |
 
 
 
