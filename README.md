@@ -75,6 +75,8 @@
 | [056. 二叉搜索树中两个节点之和](https://leetcode-cn.com/problems/opLdQZ/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findTarget.ts/) |
 | [057. 值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/containsNearByAlmostDuplicate.ts/) |
 | [058.  日程表](https://leetcode-cn.com/problems/fi9suh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MyCalendar.ts/) |
+| [059. 数据流的第 K 大数值](https://leetcode-cn.com/problems/jBjn9C/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/KthLargest.ts/) |
+| [062. 实现前缀树](https://leetcode-cn.com/problems/QC3q1f/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/Trie.ts/) |
 
 
 
