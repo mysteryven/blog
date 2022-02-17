@@ -76,7 +76,9 @@
 | [057. 值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/containsNearByAlmostDuplicate.ts/) |
 | [058.  日程表](https://leetcode-cn.com/problems/fi9suh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MyCalendar.ts/) |
 | [059. 数据流的第 K 大数值](https://leetcode-cn.com/problems/jBjn9C/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/KthLargest.ts/) |
+| [060. 出现频率最高的 k 个数字](https://leetcode-cn.com/problems/g5c51o/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/topKFrequent.ts/) |
 | [062. 实现前缀树](https://leetcode-cn.com/problems/QC3q1f/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/Trie.ts/) |
+| [063. 替换单词](https://leetcode-cn.com/problems/UhWRSj/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/replaceWords.ts/) |
 
 
 

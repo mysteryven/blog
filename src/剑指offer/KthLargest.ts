@@ -1,4 +1,4 @@
-class MaxHeap {
+class MinHeap {
   list: number[];
   size: number;
   capacity: number;
@@ -71,16 +71,16 @@ class MaxHeap {
 }
 
 export default class KthLargest {
-  maxHeap: MaxHeap;
+  minHeap: MinHeap;
 
   constructor(k: number, nums: number[]) {
-    this.maxHeap = new MaxHeap(k);
+    this.minHeap = new MinHeap(k);
     for (let i = 0; i < nums.length; i++) {
-      this.maxHeap.add(nums[i]);
+      this.minHeap.add(nums[i]);
     }
   }
 
   add(val: number): number {
-    return this.maxHeap.add(val);
+    return this.minHeap.add(val);
   }
 }
