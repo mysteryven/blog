@@ -77,8 +77,10 @@
 | [058.  日程表](https://leetcode-cn.com/problems/fi9suh/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MyCalendar.ts/) |
 | [059. 数据流的第 K 大数值](https://leetcode-cn.com/problems/jBjn9C/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/KthLargest.ts/) |
 | [060. 出现频率最高的 k 个数字](https://leetcode-cn.com/problems/g5c51o/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/topKFrequent.ts/) |
+| [061. 和最小的 k 个数对](https://leetcode-cn.com/problems/qn8gGX/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/kSmallestPairs.js/) |
 | [062. 实现前缀树](https://leetcode-cn.com/problems/QC3q1f/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/Trie.ts/) |
 | [063. 替换单词](https://leetcode-cn.com/problems/UhWRSj/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/replaceWords.ts/) |
+| [064. 神奇的字典](https://leetcode-cn.com/problems/US1pGT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MagicDictionary.ts/) |
 
 
 
