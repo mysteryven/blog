@@ -1,6 +1,6 @@
-class TrieNode {
+class TrieNode3 {
   isWord: boolean;
-  children: TrieNode[];
+  children: TrieNode3[];
 
   constructor() {
     this.children = new Array(26).fill(null);
@@ -9,10 +9,10 @@ class TrieNode {
 }
 
 class MagicDictionary {
-  root: TrieNode;
+  root: TrieNode3;
   aCode: number;
   constructor() {
-    this.root = new TrieNode();
+    this.root = new TrieNode3();
     this.aCode = 97;
   }
 
@@ -22,7 +22,7 @@ class MagicDictionary {
       for (let c of word) {
         let index = c.charCodeAt(0) - this.aCode;
         if (!node.children[index]) {
-          node.children[index] = new TrieNode();
+          node.children[index] = new TrieNode3();
         }
         node = node.children[index];
       }
@@ -34,7 +34,12 @@ class MagicDictionary {
     return this.dfs(this.root, searchWord, 0, 0);
   }
 
-  dfs(node: TrieNode, searchWord: string, index: number, edit: number) {
+  dfs(
+    node: TrieNode3,
+    searchWord: string,
+    index: number,
+    edit: number
+  ): boolean {
     if (!node) {
       return false;
     }

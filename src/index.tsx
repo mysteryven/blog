@@ -6,14 +6,9 @@ import './call/call'
 
 import 'new.ts'
 import './call/call.js'
+import { minimumLengthEncoding } from './剑指offer/minimumLengthEncoding'
 
-var obj = new KthLargest(3, [4, 5, 8, 2])
-var param_1 = obj.add(3)
-var param_1 = obj.add(5)
-var param_1 = obj.add(10)
-var param_1 = obj.add(9)
-var param_1 = obj.add(4)
-
+minimumLengthEncoding(["time", "me", "bell"])
 
 render(
   <StrictMode>

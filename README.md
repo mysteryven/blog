@@ -81,6 +81,9 @@
 | [062. 实现前缀树](https://leetcode-cn.com/problems/QC3q1f/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/Trie.ts/) |
 | [063. 替换单词](https://leetcode-cn.com/problems/UhWRSj/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/replaceWords.ts/) |
 | [064. 神奇的字典](https://leetcode-cn.com/problems/US1pGT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MagicDictionary.ts/) |
+| [065. 最短的单词编码](https://leetcode-cn.com/problems/iSwD2y/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/minimumLengthEncoding.js/) |
+| [066. 单词之和](https://leetcode-cn.com/problems/z1R5dt/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MapSum.js/) |
+| [067. 最大的异或](https://leetcode-cn.com/problems/ms70jA/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findMaximumXOR.js/) |
 
 
 
