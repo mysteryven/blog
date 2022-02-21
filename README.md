@@ -84,6 +84,9 @@
 | [065. 最短的单词编码](https://leetcode-cn.com/problems/iSwD2y/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/minimumLengthEncoding.js/) |
 | [066. 单词之和](https://leetcode-cn.com/problems/z1R5dt/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/MapSum.js/) |
 | [067. 最大的异或](https://leetcode-cn.com/problems/ms70jA/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findMaximumXOR.js/) |
+| [068. 查找插入位置](https://leetcode-cn.com/problems/N6YdxV/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/searchInsert.js/) |
+| [069. 山峰数组的顶部](https://leetcode-cn.com/problems/B1IidL/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/peakIndexInMountainArray.js/) |
+| [070. 排序数组中只出现一次的数字](https://leetcode-cn.com/problems/skFtm2/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/singleNonDuplicate.js/) |
 
 
 
