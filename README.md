@@ -87,6 +87,9 @@
 | [068. 查找插入位置](https://leetcode-cn.com/problems/N6YdxV/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/searchInsert.js/) |
 | [069. 山峰数组的顶部](https://leetcode-cn.com/problems/B1IidL/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/peakIndexInMountainArray.js/) |
 | [070. 排序数组中只出现一次的数字](https://leetcode-cn.com/problems/skFtm2/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/singleNonDuplicate.js/) |
+| [071. 按权重生成随机数](https://leetcode-cn.com/problems/cuyjEf/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pickIndex.ts/) |
+| [072. 求平方根](https://leetcode-cn.com/problems/jJ0w9p/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/mySqrt.ts/) |
+| [073. 狒狒吃香蕉](https://leetcode-cn.com/problems/nZZqjQ/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/minEatingSpeed.ts/) |
 
 
 

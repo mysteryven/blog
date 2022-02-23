@@ -6,9 +6,9 @@ import './call/call'
 
 import 'new.ts'
 import './call/call.js'
-import { minimumLengthEncoding } from './剑指offer/minimumLengthEncoding'
+import minEatingSpeed from './剑指offer/minEatingSpeed'
 
-minimumLengthEncoding(["time", "me", "bell"])
+console.log(minEatingSpeed([3, 6, 7, 11], 8));
 
 render(
   <StrictMode>
