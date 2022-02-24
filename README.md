@@ -90,6 +90,8 @@
 | [071. 按权重生成随机数](https://leetcode-cn.com/problems/cuyjEf/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/pickIndex.ts/) |
 | [072. 求平方根](https://leetcode-cn.com/problems/jJ0w9p/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/mySqrt.ts/) |
 | [073. 狒狒吃香蕉](https://leetcode-cn.com/problems/nZZqjQ/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/minEatingSpeed.ts/) |
+| [074. 合并区间](https://leetcode-cn.com/problems/SsGoHC/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/merge.ts/) |
+| [ 075. 数组相对排序](https://leetcode-cn.com/problems/0H97ZC/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/relativeSortArray.ts/) |
 
 
 
