@@ -92,6 +92,7 @@
 | [073. 狒狒吃香蕉](https://leetcode-cn.com/problems/nZZqjQ/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/minEatingSpeed.ts/) |
 | [074. 合并区间](https://leetcode-cn.com/problems/SsGoHC/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/merge.ts/) |
 | [ 075. 数组相对排序](https://leetcode-cn.com/problems/0H97ZC/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/relativeSortArray.ts/) |
+| [076. 数组中的第 k 大的数字](https://leetcode-cn.com/problems/xx4gT2/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findKthLargest.ts/) |
 
 
 
