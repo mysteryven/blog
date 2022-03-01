@@ -9,3 +9,26 @@ fetch('/getUserInfo', {
     window.location.href = res.url
   }
 })
+
+
+
+
+const form = document.getElementById('form')
+
+form.addEventListener('submit', function (e) {
+  e.preventDefault();
+  const count = document.querySelector('#count').value;
+  fetch('/withDraw', {
+    method: 'post',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      count
+    })
+  }).then(res => {
+    res.text().then(r => {
+      alert(r)
+    })
+  })
+})
