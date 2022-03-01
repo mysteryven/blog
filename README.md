@@ -95,6 +95,8 @@
 | [076. 数组中的第 k 大的数字](https://leetcode-cn.com/problems/xx4gT2/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/findKthLargest.ts/) |
 | [077. 链表排序](https://leetcode-cn.com/problems/7WHec2/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/sortList.ts/) |
 | [078. 合并排序链表](https://leetcode-cn.com/problems/vvXgSW/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/mergeKLists.ts/) |
+| [079. 所有子集](https://leetcode-cn.com/problems/TVdhkn/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/subsets.js/) |
+| [080. 含有 k 个元素的组合](https://leetcode-cn.com/problems/uUsW3B/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/combine.js/) |
 
 
 
