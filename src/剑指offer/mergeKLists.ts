@@ -34,7 +34,7 @@ function mergeListsImpl(
   return merge333(head1, head2)!;
 }
 
-function merge(head1: ListNode, head2: ListNode): ListNode {
+function merge333(head1: ListNode, head2: ListNode): ListNode {
   let dummyHead = new ListNode();
   let current = dummyHead;
   while (head1 !== null || head2 !== null) {
