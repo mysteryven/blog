@@ -97,6 +97,7 @@
 | [078. 合并排序链表](https://leetcode-cn.com/problems/vvXgSW/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/mergeKLists.ts/) |
 | [079. 所有子集](https://leetcode-cn.com/problems/TVdhkn/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/subsets.js/) |
 | [080. 含有 k 个元素的组合](https://leetcode-cn.com/problems/uUsW3B/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/combine.js/) |
+| [081. 允许重复选择元素的组合](https://leetcode-cn.com/problems/Ygoe9J/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/combinationSum.js/) |
 
 
 
