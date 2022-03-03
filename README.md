@@ -98,6 +98,8 @@
 | [079. 所有子集](https://leetcode-cn.com/problems/TVdhkn/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/subsets.js/) |
 | [080. 含有 k 个元素的组合](https://leetcode-cn.com/problems/uUsW3B/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/combine.js/) |
 | [081. 允许重复选择元素的组合](https://leetcode-cn.com/problems/Ygoe9J/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/combinationSum.js/) |
+| [083. 没有重复元素集合的全排列](https://leetcode-cn.com/problems/VvJkup/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/permute.js/) |
+| [084. 含有重复元素集合的全排列 ](https://leetcode-cn.com/problems/7p8L0Z/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/permuteUnique.js/) |
 
 
 
