@@ -104,6 +104,9 @@
 | [085. 生成匹配的括号](https://leetcode-cn.com/problems/IDBivT/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/generateParenthesis.js/) |
 | [086. 分割回文子字符串](https://leetcode-cn.com/problems/M99OJA/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/partition-86.js/) |
 | [087. 复原 IP](https://leetcode-cn.com/problems/0on3uN/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/restoreAddresses.js/) |
+| [088. 爬楼梯的最少成本](https://leetcode-cn.com/problems/GzCJIP/) | [题解](https://github.com/mysteryven/blog/tree/main/src/剑指offer/restoreAddresses.js/) |
+
+
 
 
 
