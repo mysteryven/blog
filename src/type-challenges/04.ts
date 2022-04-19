@@ -32,3 +32,6 @@ type MyAwaited<T> = T extends Promise<infer A> ? MyAwaited<A> : T
 
 // 268
 type If<C, T, F> = C extends true ? T : F
+
+// 533
+type Concat<T extends any[], U extends any[]> = [...T, ...U]
