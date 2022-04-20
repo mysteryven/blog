@@ -35,3 +35,14 @@ type If<C, T, F> = C extends true ? T : F
 
 // 533
 type Concat<T extends any[], U extends any[]> = [...T, ...U]
+
+// 898
+type Includes<T extends any[], K> =  K extends T[number] ? true : false
+
+// 递归版本
+// type Includes<T extends readonly any[], U> = T extends [infer T1, ...infer T2] ? 
+// (U extends T1 ? true : Includes<T2, U>) :
+// false
+
+// 3057
+type Push<T extends any[], U> =  [...T, U]
