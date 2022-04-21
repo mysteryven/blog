@@ -1,3 +1,6 @@
+// 02
+type MyReturnType<T> = T extends (...args: any[]) => infer R ? R : never
+
 // 04
 type MyPick<T, K extends keyof T> = {
   [k in K]: T[k]
@@ -49,3 +52,5 @@ type Push<T extends any[], U> =  [...T, U]
 
 // 3312
 type MyParameters<T extends (...args: any[]) => any> = T extends (...args: infer U) => any ? U : never;
+
+
