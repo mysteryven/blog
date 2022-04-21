@@ -46,3 +46,6 @@ type Includes<T extends any[], K> =  K extends T[number] ? true : false
 
 // 3057
 type Push<T extends any[], U> =  [...T, U]
+
+// 3312
+type MyParameters<T extends (...args: any[]) => any> = T extends (...args: infer U) => any ? U : never;
