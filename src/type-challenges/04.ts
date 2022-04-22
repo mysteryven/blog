@@ -1,6 +1,11 @@
 // 02
 type MyReturnType<T> = T extends (...args: any[]) => infer R ? R : never
 
+// 03
+type MyOmit<T, K extends keyof T> = {
+  [k in keyof T as k extends K ? never : k]: T[k]
+}
+
 // 04
 type MyPick<T, K extends keyof T> = {
   [k in K]: T[k]
