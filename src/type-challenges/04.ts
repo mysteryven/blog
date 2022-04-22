@@ -16,6 +16,13 @@ type MyReadonly<T> = {
   readonly [k in keyof T]: T[k]
 }
 
+// 08
+type MyReadonly2<T, K extends keyof T = keyof T> = {
+  [k in keyof T as k extends K ?  never : k]: T[k]
+} & {
+  readonly[k in keyof T as k extends K ? k : never]: T[k]
+}
+
 // 11
 type TupleToObject<T extends readonly any[]> = {
   [k in T[number]]: k
