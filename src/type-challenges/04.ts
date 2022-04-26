@@ -23,6 +23,14 @@ type MyReadonly2<T, K extends keyof T = keyof T> = {
   readonly[k in keyof T as k extends K ? k : never]: T[k]
 }
 
+// 09
+type DeepReadonly<T extends Object> = {
+  readonly [K in keyof T]: T[K] extends Record<string, unknown> | Array<unknown>
+    ? DeepReadonly<T[K]>
+    : T[K];
+}
+
+
 // 11
 type TupleToObject<T extends readonly any[]> = {
   [k in T[number]]: k
