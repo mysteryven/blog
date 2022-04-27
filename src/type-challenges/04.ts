@@ -30,6 +30,8 @@ type DeepReadonly<T extends Object> = {
     : T[K];
 }
 
+// 10
+type TupleToUnion<T extends Array<unknown>> = T[number]
 
 // 11
 type TupleToObject<T extends readonly any[]> = {
